@@ -7,7 +7,6 @@ from sqlalchemy.orm import declarative_base, sessionmaker
 
 Base = declarative_base()
 
-
 def generate_uuid() -> str:
     return uuid4().hex
 
