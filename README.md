@@ -7,7 +7,6 @@ It enables the comparison of key sales performance indicators such as *net sales
 
 <img width="1329" alt="Screenshot 2023-09-18 at 11 14 58" src="https://github.com/LizaKoliechkina/price-analytics-platform/assets/52061516/ab9e1d16-92d1-4337-907d-c84bdf0d2074">
 
-
 ## Tools used for development:
 * FastAPI
 * Pydantic
